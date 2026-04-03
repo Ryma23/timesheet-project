@@ -1,9 +1,14 @@
+# Binaires
+kubectl
+minikube-linux-amd64
+
+# Logs
+*.log
+C:/
+
+# Target Maven
 target/
+
+# IDE
 .idea/
-*.class
-.project
-.classpath
-.settings/
-.mvn/
-mvnw
-mvnw.cmd
+*.iml
